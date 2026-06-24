@@ -1,10 +1,10 @@
-# 🍏 FreshCheck AI: Food Quality Classifier
+#  FreshCheck AI: Food Quality Classifier
 
 A web application that uses Deep Learning (Vision Transformers) to assess the freshness of fruits and vegetables. Upload an image, and the AI detects the item and predicts its quality.
 
 ![Project Screenshot](static/logo.png)
 
-## 🚀 Features
+##  Features
 * **AI-Powered:** Uses a pre-trained Vision Transformer (ViT) from Hugging Face.
 * **Real-time Analysis:** Instantly classifies food as Fresh, Okay, or Rotten.
 * **Clean UI:** Simple, responsive interface built with HTML/CSS.
@@ -15,7 +15,7 @@ A web application that uses Deep Learning (Vision Transformers) to assess the fr
 * **Backend:** Python, FastAPI
 * **AI/ML:** PyTorch, Transformers (Hugging Face)
 
-## 📦 How to Run
+##  How to Run
 
 1.  **Clone the repository**
     ```bash
@@ -36,7 +36,7 @@ A web application that uses Deep Learning (Vision Transformers) to assess the fr
 4.  **Access the App**
     Open your browser and go to `http://127.0.0.1:8000`
 
-## 📂 Project Structure
+##  Project Structure
 ```text
 food-classifier/
 ├── static/          # Images and assets
